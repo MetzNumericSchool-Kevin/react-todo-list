@@ -29,11 +29,3 @@ L'objectif est de rendre dynamique cette application avec REACT.
 
 - La liste est triée, d'abord ce qui n'est pas fait, ensuite ce qui a été fait
 - Ce composant gère la mutation de la data (`useState`) et modifie la data en fonction des deux autres composants (si on a ajouté une tâche, coché une tâche, supprimé une tâche, ...)
-
-## Remarques
-
-- Vous devez créer les différents composants
-
-## Ressources
-
-- N'oubliez pas de reprendre les ressources sur Teams pour trouver revoir les bases vues en cours ;-)
